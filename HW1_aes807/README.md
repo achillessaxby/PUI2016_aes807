@@ -25,3 +25,4 @@ The Assignment(2) and Assignment(3) - started, completed on Jupyter through comp
 
 ![Screenshot 1 Assignment 2: my .bashrc]((alias) - .bash_profile - Local Machine.png)
 ![Screenshot 2 Assignment 2: my succesfull commands using $PUI2016 and the pui2016 alias](Compute (alias) - (.bashrc) - Code.png)
+(Compute - (pwd_alias_pwd) - screenshot.png)
