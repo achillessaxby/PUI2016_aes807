@@ -23,6 +23,7 @@ All the files and screenshots have been taken and stored in the Jupyter notebook
 The LAB and Assignment(1) - completed on my local machine.
 The Assignment(2) and Assignment(3) - started, completed on Jupyter through compute.
 
-![Screenshot 1 Assignment 2: my .bashrc]((alias) - .bash_profile - Local Machine.png)
-![Screenshot 2 Assignment 2: my succesfull commands using $PUI2016 and the pui2016 alias](Compute (alias) - (.bashrc) - Code.png)
-(Compute - (pwd_alias_pwd) - screenshot.png)
+![Screenshot 1 Assignment 2: In compute - successful commands >> pwd-alias-pwd](Compute - (pwd_alias_pwd) - screenshot.png)
+![Screenshot 2 Assignment 2: Code created for the alias command](Compute (alias) - (.bashrc) - Code.png)
+![Screenshot 3 Assignment 2: Local Machine - alias created - extra](Local Machine - CUSP Compute Login - (alias).png)
+![Screenshot 4 Assignment 2: Code created for the local machine - extra - to simplify things]((alias) - .bash_profile - Local Machine.png)
