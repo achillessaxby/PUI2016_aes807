@@ -1,5 +1,12 @@
-Achilles Edwin Alfred Saxby
-NetID - aes807
+# PUI2016_aes807:
+
+## HW-1
+## Lab-1
+## Assignment - 1/2/3
+
+## Achilles Edwin Alfred Saxby
+## NetID - aes807
+
 Collaborated with:
     Daniel Fay (Forking/Clong/Merging Partner - Help taken to write the BASH-Codes)
     Vishwajeet Shelar (Help regarding the push/commit/init stages of the assignment)
@@ -15,3 +22,6 @@ All the files and screenshots have been taken and stored in the Jupyter notebook
 
 The LAB and Assignment(1) - completed on my local machine.
 The Assignment(2) and Assignment(3) - started, completed on Jupyter through compute.
+
+![Screenshot 1 Assignment 2: my .bashrc]((alias) - .bash_profile - Local Machine.png)
+![Screenshot 2 Assignment 2: my succesfull commands using $PUI2016 and the pui2016 alias](Compute (alias) - (.bashrc) - Code.png)
