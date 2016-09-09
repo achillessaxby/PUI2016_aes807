@@ -1,6 +1,5 @@
-# PUI2016_aes807:
+# PUI2016_aes807: HW-1
 
-## HW-1
 ## Lab-1
 ## Assignment - 1/2/3
 
