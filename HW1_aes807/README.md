@@ -7,10 +7,15 @@
 ## NetID - aes807
 
 Collaborated with:
-    Daniel Fay (Forking/Clong/Merging Partner - Help taken to write the BASH-Codes)
-    Vishwajeet Shelar (Help regarding the push/commit/init stages of the assignment)
-    Avikal Somvanshi (Help regarding the initialization of the BASH-RC and PROFILE systems)
-    
+
+1. Daniel Fay (Forking/Clong/Merging Partner - Help taken to write the BASH-Codes)
+2. Vishwajeet Shelar (Help regarding the push/commit/init stages of the assignment)
+3. Avikal Somvanshi (Help regarding the initialization of the BASH-RC and PROFILE systems)
+4. Christian Rosado (Helped him in answering quesitons and figuring out the creation of directories in local/compute)
+5. Trang Dam (Helped her in figuring out the BASH/ALIAS aspect)
+6. Hrafnkell Hjorleifsson (Helped him in figuring out the BASH/ALIAS aspect)
+
+
 Using the directions given in the NYU Classes and the Assignments, following them and collaborating with the team mentioned above, I have created two repositories in GitHub(achillessaxby)
     - gittest_achilles
     - PUI2016_aes807
