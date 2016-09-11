@@ -1,7 +1,7 @@
 # PUI2016_aes807: HW-1
 
 ## Assignment - 1/2 - README file uploaded with Snapshots here
-## Lab-1 - Completed and record can be viewed in the history
+## Lab-1 - Completed and record can be viewed in the history - github/achillessaxby/(gittest_achilles)
 
 ## Achilles Edwin Alfred Saxby
 ## NetID - aes807
@@ -15,11 +15,11 @@ Using the directions given in the NYU Classes and the Assignments, following the
     - gittest_achilles
     - PUI2016_aes807
 
-Also, using the fork/clone/merge directions - everything completed successfully in github - with gittest_dfay_repo with Daniel Fay.
+Also, using the fork/clone/merge directions - everything completed successfully in github - with gittest_dfay_repo with Daniel Fay - merged with Daniel and can be seen on repo - achillessaxby.
 
 All the files and screenshots have been taken and stored in the Jupyter notebooks under the /homedirs/aes807/PUI2016 folder.
 
-The LAB and Assignment(1) - completed on my local machine.
+The LAB and Assignment(1) - completed on my local machine - on repo - github/achillessaxby/gittest_achilles.
 The Assignment(2) and Assignment(3) - started, completed on Jupyter through compute.
 
 ![Screenshot 1 Assignment 2: In compute - successful commands >> pwd-alias-pwd](Compute - (pwd_alias_pwd) - screenshot.png)
