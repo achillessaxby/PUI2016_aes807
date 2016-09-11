@@ -19,8 +19,8 @@
 
 
 Using the directions given in the NYU Classes and the Assignments, following them and collaborating with the team mentioned above, I have created two repositories in GitHub(achillessaxby)
-    - gittest_achilles
-    - PUI2016_aes807
+    - gittest_achilles - Laboratory1
+    - PUI2016_aes807 - HW1 - Assignments 1 & 2
 
 Also, using the fork/clone/merge directions - everything completed successfully in github - with gittest_dfay_repo with Daniel Fay - merged with Daniel and can be seen on repo - achillessaxby.
 
@@ -28,7 +28,8 @@ All the files and screenshots have been taken and stored in the Jupyter notebook
 
 The LAB and Assignment(1) - completed on my local machine - on repo - github/achillessaxby/gittest_achilles.
 
-The Assignment(2) and Assignment(3) - started, completed on Jupyter through compute.
+Assignment(2) - started, completed on Jupyter through compute.
+Assignment(3) - started working on it - unable to complete throughly - will update README.md file if completed.
 
 ![Screenshot 1 Assignment 2: In compute - successful commands >> pwd-alias-pwd](Compute - (pwd_alias_pwd) - screenshot.png)
 ![Screenshot 2 Assignment 2: Code created for the alias command](Compute (alias) - (.bashrc) - Code.png)
