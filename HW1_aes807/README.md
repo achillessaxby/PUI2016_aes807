@@ -25,6 +25,7 @@ Also, using the fork/clone/merge directions - everything completed successfully 
 All the files and screenshots have been taken and stored in the Jupyter notebooks under the /homedirs/aes807/PUI2016 folder.
 
 The LAB and Assignment(1) - completed on my local machine - on repo - github/achillessaxby/gittest_achilles.
+
 The Assignment(2) and Assignment(3) - started, completed on Jupyter through compute.
 
 ![Screenshot 1 Assignment 2: In compute - successful commands >> pwd-alias-pwd](Compute - (pwd_alias_pwd) - screenshot.png)
