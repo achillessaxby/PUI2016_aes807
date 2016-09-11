@@ -1,7 +1,7 @@
 # PUI2016_aes807: HW-1
 
 ## Assignment - 1/2 - README file uploaded with Snapshots here
-## Lab-1 - Completed and record can be viewed in the history - github/achillessaxby/(gittest_achilles)
+## Lab-1 - Completed and record can be viewed in the history - achillessaxby/gittest_achilles
 
 ## Achilles Edwin Alfred Saxby
 ## NetID - aes807
