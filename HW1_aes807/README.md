@@ -40,9 +40,13 @@ All the files and screenshots have been taken and stored in the Jupyter notebook
 The LAB and Assignment(1) - completed on my local machine - on repo - github/achillessaxby/gittest_achilles.
 
 Assignment(2) - started, completed on Jupyter through compute.
+
 Assignment(3) - started, completed and updated.
 
 ![Screenshot 1 Assignment 2: In compute - successful commands >> pwd-alias-pwd](Compute - (pwd_alias_pwd) - screenshot.png)
+
 ![Screenshot 2 Assignment 2: Code created for the alias command](Compute (alias) - (.bashrc) - Code.png)
+
 ![Screenshot 3 Assignment 2: Local Machine - alias created - extra](Local Machine - CUSP Compute Login - (alias).png)
+
 ![Screenshot 4 Assignment 2: Code created for the local machine - extra - to simplify things]((alias) - .bash_profile - Local Machine.png)
