@@ -1,6 +1,9 @@
 # PUI2016_aes807: HW-1
 
 ## Assignment - 1/2 - README file uploaded with Snapshots here
+## Assignment - 3 - Added in two places :
+    ### 1. In the PUI2016 main repository outside the homework folder.
+    ### 2. In the HW1 folder - inside another repository named "Challenge_3_ExtraCredit".
 ## Lab-1 - Completed and record can be viewed in the history - achillessaxby/gittest_achilles
 
 ## Achilles Edwin Alfred Saxby
