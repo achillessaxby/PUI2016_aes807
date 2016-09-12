@@ -16,6 +16,7 @@
 6. Hrafnkell Hjorleifsson (Helped him in figuring out the BASH/ALIAS aspect)
 7. Akshay Penmarcha (Helped him in figuring out the nitty-gritties of Assignment-1 up until forking)
 8. Adriano Yoshino (Helped him in figuring out the steps to go ahead after forking and merging issues)
+9. Pooneh Famili (Helped her in adding screenshots to the README.md file)
 
 
 Using the directions given in the NYU Classes and the Assignments, following them and collaborating with the team mentioned above, I have created two repositories in GitHub(achillessaxby)
