@@ -27,6 +27,7 @@
 4. Akshay Penmarcha (Helped him in figuring out the nitty-gritties of Assignment-1 up until forking)
 5. Adriano Yoshino (Helped him in figuring out the steps to go ahead after forking and merging issues)
 6. Pooneh Famili (Helped her in adding screenshots to the README.md file)
+7. Richard Vecsler (Helped him in clearing out the hidden files and connecting and establishing links with streams in git)
 
 Using the directions given in the NYU Classes and the Assignments, following them and collaborating with the team mentioned above, I have created two repositories in GitHub(achillessaxby)
     - gittest_achilles - Laboratory1
