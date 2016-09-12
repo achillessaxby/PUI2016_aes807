@@ -16,14 +16,17 @@
 1. Daniel Fay (Forking/Clong/Merging Partner - Help taken to write the BASH-Codes)
 2. Vishwajeet Shelar (Help regarding the push/commit/init stages of the assignment)
 3. Avikal Somvanshi (Help regarding the initialization of the BASH-RC and PROFILE systems)
-4. Aaron D'Souza (Got help regarding the Assignment-3)
-5. Kristi Korsberg (Got help in the numpy random generator for Assignment-3)
-6. Christian Rosado (Helped him in answering quesitons and figuring out the creation of directories in local/compute)
-7. Trang Dam (Helped her in figuring out the BASH/ALIAS aspect)
-8. Hrafnkell Hjorleifsson (Helped him in figuring out the BASH/ALIAS aspect)
-9. Akshay Penmarcha (Helped him in figuring out the nitty-gritties of Assignment-1 up until forking)
-10. Adriano Yoshino (Helped him in figuring out the steps to go ahead after forking and merging issues)
-11. Pooneh Famili (Helped her in adding screenshots to the README.md file)
+4. Aaron D'Souza (Help regarding the Assignment-3)
+5. Kristi Korsberg (Help in the numpy random generator for Assignment-3)
+
+### Helped:
+
+1. Christian Rosado (Helped him in answering quesitons and figuring out the creation of directories in local/compute)
+2. Trang Dam (Helped her in figuring out the BASH/ALIAS aspect)
+3. Hrafnkell Hjorleifsson (Helped him in figuring out the BASH/ALIAS aspect)
+4. Akshay Penmarcha (Helped him in figuring out the nitty-gritties of Assignment-1 up until forking)
+5. Adriano Yoshino (Helped him in figuring out the steps to go ahead after forking and merging issues)
+6. Pooneh Famili (Helped her in adding screenshots to the README.md file)
 
 Using the directions given in the NYU Classes and the Assignments, following them and collaborating with the team mentioned above, I have created two repositories in GitHub(achillessaxby)
     - gittest_achilles - Laboratory1
