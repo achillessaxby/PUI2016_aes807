@@ -1,7 +1,6 @@
 # PUI2016_aes807: HW-2
 
-## Achilles Edwin Alfred Saxby
-## NetID - aes807
+## Achilles Edwin Alfred Saxby - aes807
 
 ## Assignment - 1 : show_bus_locations_aes807.py
 #### Practice code also published here - Assignment_1 - Coding Practice.ipynb
