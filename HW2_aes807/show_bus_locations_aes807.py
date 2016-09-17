@@ -21,6 +21,6 @@ print ("The Number of Actve Buses: %d" %(len(totalData)))
 for total in totalData:
     longitude = totalData[i]['MonitoredVehicleJourney']['VehicleLocation']['Longitude']
     latitude = totalData[i]['MonitoredVehicleJourney']['VehicleLocation']['Latitude']
-    print ("Bus %d is at the latitude %f and at the longitude %f" %(i,longitude,latitude))
+    print ("Bus %d is at the latitude %f and at the longitude %f" %(i,latitude,longitude))
     i += 1
 
