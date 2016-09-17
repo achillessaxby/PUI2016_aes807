@@ -4,18 +4,18 @@
 ## NetID - aes807
 
 ## Assignment - 1 : show_bus_locations_aes807.py
-### Practice code also published here - Assignment_1 - Coding Practice.ipynb
+#### Practice code also published here - Assignment_1 - Coding Practice.ipynb
 
 - Created a Python script that can be run from any terminal as long as they are in this directory itself.
 - The two(2) inputs that will be given are already taken into consideration to give the desired output.
 
 ## Assignment - 2: get_bus_info_aes807.py
-### Practice code also published here - Assignment_2 - Coding Practice.ipynb
+#### Practice code also published here - Assignment_2 - Coding Practice.ipynb
 
 - Created in the same way as the first - only difference is that there are two more variables for the input and output.
 
 ## Assignment - 3:
-### Practice code is the main code and it is published here under Assignment_3_Solutions_aes807.ipynb
+#### Practice code is the main code and it is published here under Assignment_3_Solutions_aes807.ipynb
 
 ## Lab-2 - Used as a guideline to complete the assignments.
 
