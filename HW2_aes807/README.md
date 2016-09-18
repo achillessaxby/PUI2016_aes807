@@ -27,6 +27,8 @@
 
 1. Akshay Penmarcha (Worked on all three assignments - only giving instructions and small ideas on how to write the code and complete the work)
 2. Priyanshi Singh (Worked on all three assignments - only giving instructions and small ideas on how to write the code and complete the work)
+3. Aaron Jude Simon D'Souza (Worked on assignments - only giving instructions and small ideas on how to write the code and complete the work)
+4. Vishwajeet Shelar (Helped in giving small ideas about code in the third assignment)
 
 Using the directions given in the NYU Classes and the Assignments, following them and collaborating with the people mentioned above:
 
