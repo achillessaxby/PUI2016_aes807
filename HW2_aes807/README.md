@@ -16,12 +16,19 @@
 ## Assignment - 3:
 #### Practice code is the main code and it is published here under Assignment_3_Solutions_aes807.ipynb
 
+## Assignment - Extra Credit:
+#### The code is on github and the practice code is on jupyter.
+
+- Did not work on it by myself at all - used help from Vishwajeet and basically copied his whole code because I could not figure out how the date/time format worked out in the problem.
+- The code is an exact match of Vishwajeet - I was trying to learn and understand but since I created it - I pushed it to github.
+
 ## Lab-2 - Used as a guideline to complete the assignments.
 
 ### People collaborated with:
 
 1. Federica Bianco (Instuctor) - Taught me how to run a simple python script and the steps to follow to achieve the same
 2. Hrafnkell Hjorleifsson (Worked with him on all three assignments - figuring out ways and methods)
+3. Vishwajeet Shelar (Helped me in the extra-credit assignment)
 
 ### Helped:
 
