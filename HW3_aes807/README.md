@@ -1,46 +1,55 @@
-# PUI2016_aes807: HW-2
+# PUI2016_aes807: HW-3
 
 ## Achilles Edwin Alfred Saxby - aes807
 
-## Assignment - 1 : show_bus_locations_aes807.py
-#### Practice code also published here - Assignment_1 - Coding Practice.ipynb
+## Assignment - 1 : Assignment_1_Solutions_aes807.ipynb
+#### Distributions (5 in Total) and a Histogram of all the means of all the distributions taken at once
+ -  Chi-Square Distribution
+ -  Normal Distribution
+ -  Poisson Distribution
+ -  Binomial Distribution
+ -  Logistic Distribution
+ -  Histogram of all Distributions
+ 
+#### Extra Credit - adding a Gaussian Curve to the Histogram - In the same iPython notebook itself.
 
-- Created a Python script that can be run from any terminal as long as they are in this directory itself.
-- The two(2) inputs that will be given are already taken into consideration to give the desired output.
+## Assignment - 2: Assignment_2_Solutions_aes807.ipynb
+#### Had to work in a group specifically for this assignment
+    -  Group work done and totally six(6) people in the group collaborated and worked on this project
+    -  Group members:
+        - Anastasia Shegay
+        - Vishwajeet Shelar
+        - Akshay Penmatcha
+        - Aaron D'Souza
+        - Priyanshi Singh
+        - Achilles E A Saxby (aes807)
+    -  Togeather the group has created the assignment/sat down together and created the code/worked togeather throughout
+    -  Data is downloaded onto everyone's personal homedirs/ under their NetID aliases - using the code the instructor used to download the same
+    -  All group members worked together and created the project from scratch and the same has been submitted by everyone with minor changes in the code depending on personal changes that needed to be reflected
 
-## Assignment - 2: get_bus_info_aes807.py
-#### Practice code also published here - Assignment_2 - Coding Practice.ipynb
+## Assignment - 3: Assignment_3_Solutions_aes807.ipynb
+#### Completed Lab Work - (Z-Score) and formally introduced the problem and the Z-Test and solved to prove
 
-- Created in the same way as the first - only difference is that there are two more variables for the input and output.
+-  The "times.txt" file is in the location of the HW3 folder itself and has been pushed to this repository as well for the purpose of the smooth running of the code
 
-## Assignment - 3:
-#### Practice code is the main code and it is published here under Assignment_3_Solutions_aes807.ipynb
-
-## Assignment - Extra Credit:
-#### The code is on github and the practice code is on jupyter.
-
-- Did not work on it by myself at all - used help from Vishwajeet and basically copied his whole code because I could not figure out how the date/time format worked out in the problem.
-- The code is an exact match of Vishwajeet - I was trying to learn and understand but since I created it - I pushed it to github.
-
-## Lab-2 - Used as a guideline to complete the assignments.
+## Rough Solutions for the Assignment_2 is also in this repository to show the working of how we tried to download the data in different ways to try and run the code for the 2nd Assignment
+#### This code is on github and on jupyter as well
 
 ### People collaborated with:
 
-1. Federica Bianco (Instuctor) - Taught me how to run a simple python script and the steps to follow to achieve the same
-2. Hrafnkell Hjorleifsson (Worked with him on all three assignments - figuring out ways and methods)
-3. Vishwajeet Shelar (Helped me in the extra-credit assignment)
+1. Federica Bianco (Instuctor) - Used code given to run and work on all assignments
+2. Christian Rosado - helped us in understanding and figuring out the details and schematics of the Assignment_2
 
-### Helped:
+### Worked together with:
 
-1. Akshay Penmarcha (Worked on all three assignments - only giving instructions and small ideas on how to write the code and complete the work) - also helped him extensively in the Assignmet 3 and the Extra_Credit_Assignment helping him understand and complete his code/assignment
-2. Priyanshi Singh (Worked on all three assignments - only giving instructions and small ideas on how to write the code and complete the work)
-3. Aaron Jude Simon D'Souza (Worked on assignments - only giving instructions and small ideas on how to write the code and complete the work)
+1. Akshay Penmarcha (Worked on all three assignments - only giving instructions and small ideas on how to write the code and complete the work) - also helped him extensively in the Assignment_1 and Assignment_3 
+2. Priyanshi Singh (Worked on all three assignments)
+3. Aaron Jude Simon D'Souza (Worked on assignments - taking help and helping too)
 4. Vishwajeet Shelar (Helped in giving small ideas about code in the third assignment)
+5. Anastasia (Worked in conjunction for the group assignment)
 
 Using the directions given in the NYU Classes and the Assignments, following them and collaborating with the people mentioned above:
 
-    - PUI2016_aes807 - HW2_aes807
-    - Extra_Files - for all the extra files used to understand the problem
-    - CSV Files - to store all the .csv files that have been used and/or created whilst doing the assignments
+    - PUI2016_aes807 - HW3_aes807
 
-All the files taken and stored in the Jupyter notebooks under the /homedirs/aes807/PUI2016 folders.
+All the files taken and stored in the Jupyter notebooks under the /homedirs/aes807/PUI2016/HW3_aes807 folders.
