@@ -32,7 +32,7 @@
 
 -  The "times.txt" file is in the location of the HW3 folder itself and has been pushed to this repository as well for the purpose of the smooth running of the code
 
-## Rough Solutions for the Assignment_2 is also in this repository to show the working of how we tried to download the data in different ways to try and run the code for the 2nd Assignment
+#### Rough Solutions for the Assignment_2 is also in this repository to show the working of how we tried to download the data in different ways to try and run the code for the 2nd Assignment
 #### This code is on github and on jupyter as well
 
 ### People collaborated with:
