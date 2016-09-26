@@ -38,7 +38,8 @@
 ### People collaborated with:
 
 1. Federica Bianco (Instuctor) - Used code given to run and work on all assignments
-2. Christian Rosado - helped us in understanding and figuring out the details and schematics of the Assignment_2
+2. Vishwajeet Shelar - helped in understanding most of the code in Assignment_2 and Assignment_3
+3. Christian Rosado - helped us in understanding and figuring out the details and schematics of the Assignment_2
 
 ### Worked together with:
 
