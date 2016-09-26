@@ -42,7 +42,7 @@
 
 ### Worked together with:
 
-1. Akshay Penmarcha (Worked on all three assignments - only giving instructions and small ideas on how to write the code and complete the work) - also helped him extensively in the Assignment_1 and Assignment_3 
+1. Akshay Penmarcha (Worked on all three assignments - giving instructions and small ideas on how to write the code and complete the work) - also helped him extensively in the Assignment_1 and Assignment_3 relating to coding and ideas of plotting and distributions
 2. Priyanshi Singh (Worked on all three assignments)
 3. Aaron D'Souza (Worked on assignments - taking help and helping too)
 4. Vishwajeet Shelar (Helped in giving small ideas about code in the third assignment)
