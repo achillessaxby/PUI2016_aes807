@@ -34,5 +34,10 @@ Also, making age groups to sort out the customers in for a better quality data s
 ### c. Chose an appropriate test to test H0 given the type of data, and the question asked. 
 #### You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
 
-A t-test would be appropriate for this hypothesis as the independent variable is dichotomous (subscriber or customer) 
-and there is one dependent variable (duration of ride is continous).
+-- Two things to be noted in this assignment:
+
+1. If the data taken was only 2 categories that was being tested and proved for instance if the groups were above a certain (X) age and below a certain (X) age then a T-TEST would be appropriate for this hypothesis as the independent variable is dichotomous (above the age or below the age) and there is one dependent variable (duration of ride is continous).
+
+2. The data taken here (even though the Null and Alternate hypothesis has been started for born before and after the year 1970) has been classified into age groups [(1-21),(21-41),(41-61),(61-81)] so here, I would suggest to go ahead with the  ANOVA TEST due to the fact that  there are now 4 groups to classify - whether the person is now born before or after 1970 does not matter since they have been classified into groups after that as well. So the ANOVA test here is the perfect one if the hypothesis testing is going in the 4 groups direction. According to the pdf document presented as the baseline, I chose ANOVA  -  tests the significance of group differences between two or more groups / the IV has two or more categories / only determines that there is a difference between groups, but doesn’t tell which is different and there is one dependent variable (duration of ride is continous).
+
+#### End of the evaluation
