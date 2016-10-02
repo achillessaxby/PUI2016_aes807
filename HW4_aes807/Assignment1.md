@@ -23,14 +23,13 @@ a recreational purpose.
 go to work or such might be the case as well.
 -- Younger people might want to ride all around to see things and many other factors that can be used to assess this data set that you have created which does not matter again because you have given the perfect formulations 
 
-### b. verify that the data supports the project: 
-#### i.e. if the a data has the appropriate features (variables) to answer the question, 
-#### and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+### b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
 
 The data has the appropriate variables and has been successfully processed to remove all but the trip duration, birth year and gender year so that other data sets can be created from these factors. 
 The fact that you have chosen the gender and given it a 1 or a 2 and the years that can be subtracted shows that there are amny things that can be done with just these two datasets and sicne you have dropped everything else other than these two - it looks to be the best choice.
 Also, making age groups to sort out the customers in for a better quality data set and bins is an innovational idea.
 #### the data supports the project and it has been properly pre-processed for other extractions.
+
 
 ### c. Chose an appropriate test to test H0 given the type of data, and the question asked. 
 #### You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
