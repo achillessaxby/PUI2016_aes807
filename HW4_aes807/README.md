@@ -42,12 +42,16 @@ LOGISTIC REGRESSION	| 2, the absence or presence of colony fissioning is conside
 
 ## Assignment 3:
 
-Worked on the assignment from the instructors notes and used code to fill up the blanks in the code.
+- Copied and pasted the notebook into my personal notebook and worked on it from compute directly - did not use the same notebook as the instructor - this might show some irregularities with the code and the boxes that needed to be completed.
+
+- Worked on the assignment from the instructors notes and used code to fill up the blanks in the code.
 
 # ---------------------- 
 
 ## Assignment 4:
 
-Worked on the assignment from the instructors notes and used code to fill up the blanks in the code.
+- Copied and pasted the notebook into my personal notebook and worked on it from compute directly - did not use the same notebook as the instructor - this might show some irregularities with the code and the boxes that needed to be completed.
+
+- Worked on the assignment from the instructors notes and used code to fill up the blanks in the code.
 
 # ---------------------- 
