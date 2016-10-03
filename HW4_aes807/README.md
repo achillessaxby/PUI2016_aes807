@@ -46,6 +46,10 @@ LOGISTIC REGRESSION	| 2, the absence or presence of colony fissioning is conside
 
 - Worked on the assignment from the instructors notes and used code to fill up the blanks in the code.
 
+- Used Google and help from other students in the class to understand the coding aspect of writing statistics - code may be similar to a few people due to the help I have taken from them.
+
+- Read friends' codes to try and understand how to frame sentences for proving in words why the rejection/acceptance was done for a particular hypothesis.
+
 # ---------------------- 
 
 ## Assignment 4:
@@ -53,5 +57,9 @@ LOGISTIC REGRESSION	| 2, the absence or presence of colony fissioning is conside
 - Copied and pasted the notebook into my personal notebook and worked on it from compute directly - did not use the same notebook as the instructor - this might show some irregularities with the code and the boxes that needed to be completed.
 
 - Worked on the assignment from the instructors notes and used code to fill up the blanks in the code.
+
+- Used Google and help from other students in the class to understand the coding aspect of writing statistics - code may be similar to a few people due to the help I have taken from them.
+
+- Read friends' codes to try and understand how to frame sentences for proving in words why the rejection/acceptance was done for a particular hypothesis.
 
 # ---------------------- 
