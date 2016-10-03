@@ -6,12 +6,12 @@
 
 | **Statistical Analyses	|  IV(s)  |  IV type(s) |  DV(s)  |  DV type(s)  |  Control Var | Control Var type  | Question to be answered | _H0_ | alpha | link to paper **| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
-ANCOVA	| 1, Ranks of values | ordinal | 1, did Self Affirmation or no| categorical | 1, age | continuous (could also be categoridcal) | 	Do participants in self-affirmation rak  value significantly higher than control group | Ranks test groups <= Ranks control group | 0.05 | [The Phrenic Component of Acute Schizophrenia – A Name and Its Physiological Reality](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0033459) |
+MANCOVA	| 1, Ranks of values | ordinal | 1, did Self Affirmation or no| categorical | 1, age | continuous (could also be categoridcal) | 	Do participants in self-affirmation rak  value significantly higher than control group | Ranks test groups <= Ranks control group | 0.05 | [The Phrenic Component of Acute Schizophrenia – A Name and Its Physiological Reality](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0033459) |
   |||||||||
-  
+
 | **Statistical Analyses	|  IV(s)  |  IV type(s) |  DV(s)  |  DV type(s)  |  Control Var | Control Var type  | Question to be answered | _H0_ | alpha | link to paper **| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
-MANCOVA	| 1, Ranks of values | ordinal | 1, did Self Affirmation or no| categorical | 1, age | continuous (could also be categoridcal) | 	Do participants in self-affirmation rak  value significantly higher than control group | Ranks test groups <= Ranks control group | 0.05 | [The Phrenic Component of Acute Schizophrenia – A Name and Its Physiological Reality](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0033459) |
+ANCOVA	| 1, Ranks of values | ordinal | 1, did Self Affirmation or no| categorical | 1, age | continuous (could also be categoridcal) | 	Do participants in self-affirmation rak  value significantly higher than control group | Ranks test groups <= Ranks control group | 0.05 | [The Phrenic Component of Acute Schizophrenia – A Name and Its Physiological Reality](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0033459) |
   |||||||||
 
 ### Part - II (Choosing one from the Second Half of the Table to use as a guideline)
