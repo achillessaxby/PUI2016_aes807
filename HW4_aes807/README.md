@@ -9,6 +9,8 @@
 #### (aes807) to create and complete the evaluation of Xinge Zhong - (xz1809)
 #### Forked, Cloned and Written .md file
 
+# ---------------------- 
+
 ## Assignment 2:
 
 ### Part - I (Choosing two from the First Half of the Table to use as a guideline)
@@ -35,3 +37,13 @@ ANCOVA	| 3, Patients / Relatives / Controls | Categorical | 1, single parameters
 |:----------:|:----------:|:------------:|:-------------:|:-------------:|:------------:|:--------------:|:------------------:|:-------------:|:---------:|:---------:|:---------:|:---------:|
 LOGISTIC REGRESSION	| 2, the absence or presence of colony fissioning is considered expression of not critical vs. critical level of scalar stress | Categorical | 1, Community Size | Dichotomous | N/A Here (NIL) | N/A Here (0) | Drawing upon the cognitive constrains to human group size, a model is built by means of Logistic Regression on the basis of the data on colony fissioning among the Hutterites of North America | On the grounds of the theoretical framework sketched in the first part of the article, the absence or presence of colony fissioning is considered expression of not critical vs. critical level of scalar stress for the sake of the model building| Does not show a significant relationship between the critical scalar stress and group size | Confirms the existence of a significant relationship between critical scalar stress and group size, setting the issue on firmer statistical grounds | 0.05 | [Modeling Group Size and Scalar Stress by Logistic Regression from an Archaeological Perspective](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0091510) |
   |||||||||
+
+# ---------------------- 
+
+## Assignment 3:
+
+# ---------------------- 
+
+## Assignment 4:
+
+# ---------------------- 
