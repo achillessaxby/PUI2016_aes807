@@ -13,7 +13,7 @@
 
 ## Assignment 2: 
 
-### Worked with Priyanshi Singh on this assignment
+### Worked with Priyanshi Singh (ps3369) on this assignment
 
 ### Part - I (Choosing two from the First Half of the Table to use as a guideline)
 
