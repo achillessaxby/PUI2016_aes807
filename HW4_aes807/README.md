@@ -11,7 +11,9 @@
 
 # ---------------------- 
 
-## Assignment 2:
+## Assignment 2: 
+
+### Worked with Priyanshi Singh on this assignment
 
 ### Part - I (Choosing two from the First Half of the Table to use as a guideline)
 
@@ -63,3 +65,10 @@ LOGISTIC REGRESSION	| 2, the absence or presence of colony fissioning is conside
 - Read friends' codes to try and understand how to frame sentences for proving in words why the rejection/acceptance was done for a particular hypothesis.
 
 # ---------------------- 
+
+### Group that worked together on the Assignments 3 and 4 - discussed together and worked individually :
+  - Vishwajeet Shelar
+  - Aaron D'Souza
+  - Akshay Penmatcha
+  - Priyanshi Singh
+  - Shalmali Kulkarni
