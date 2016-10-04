@@ -1,4 +1,4 @@
-## EDIT THIS FOR THE OTHERS
+## Aaron / Vishwajeet / Priyanshi / Akshay - choose who ever wants to be in this group for this and let me know. The other person I can add into my readme file.
 
 
 | **Statistical Analyses	|  IV(s)  |  IV type(s) |  DV(s)  |  DV type(s)  |  Control Var | Control Var type  | Question to be answered | _H0_ | _Ha_ |alpha | link to paper **| 
