@@ -14,6 +14,7 @@
 ## Assignment 2: 
 
 ### Worked with Priyanshi Singh (ps3369) on this assignment
+### We worked in conjunction and discussion throughtout the assignment
 
 ### Part - I (Choosing two from the First Half of the Table to use as a guideline)
 
