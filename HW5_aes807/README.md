@@ -50,7 +50,7 @@
 
 ### H_a => Mean_Weight(exercise) < Mean_Weight(diet)
 
-### Significance Level - 0.05 or 5%
+##### Significance Level - 0.05 or 5%
 
 ## 2. Do American trust the president?
   - POLL RESULTS: On May 16, 1994, Newsweek reported the results of a public opinion poll that asked: “From
@@ -67,7 +67,7 @@
 
 ### H_a => Percentage(Trust) < Percentage(Does−Not−Trust)
 
-### Significance Level - 0.05 or 5%
+##### Significance Level - 0.05 or 5%
 
 ## 3. Effectiveness of nicotine patches to quit smoking.
   - Experimental setup: measure cessation rates for smokers randomly assigned to use a nicotine patch versus a
@@ -83,7 +83,7 @@
 
 ### H_a => Cessation_Nicotine > Cessation_Placebo
 
-### Significance Level - 0.05 or 5%
+##### Significance Level - 0.05 or 5%
 
 ## 4. Quantify the danger of smoking for pregnant women.
   - Experimemtal setup: measure IQ of children at ages 1, 2, 3, and 4 years of age.
@@ -98,6 +98,6 @@
 
 ### H_a => IQ(smoking) <= IQ(non−smoking)
 
-### Significance Level - 0.05 or 5%
+##### Significance Level - 0.05 or 5%
 
 # ----------------------
