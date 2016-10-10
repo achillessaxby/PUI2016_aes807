@@ -75,7 +75,7 @@
 ##### Alternate Hypothesis: No, the American population does not trust the president !!
 ##### The proportion of the American population that trusts the president is less than the proportion of the American population that does not trust the president.
 
-#### $H_a$ => $Percentage(Trust) < Percentage(Does-Not-Trust)$
+### H_a : Percentage(Trust) < Percentage(Does-Not-Trust)
 
 ##### Significance Level - 0.05 or 5%
 
