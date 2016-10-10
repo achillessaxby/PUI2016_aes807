@@ -2,6 +2,16 @@
 # aes807
 # PUI Homework 5 - (HW5_aes807)
 
+# ----------------------
+
+### People Collaborated with:
+  - Anastasia Shegay
+  - Aaron D'Souza
+  - Vishwajeet Shelar
+  - Priyanshi Singh
+  - Akshay Penmatcha
+  - Shalmali Kulkarni
+
 # ---------------------- 
 
 ## Assignment 1: Notebook -> HW5_Assignment_1_Solutions_aes807.ipynb
