@@ -29,4 +29,4 @@
   - Achilles Saxby
   
 #### Aaron D' Souza completed the code for the Assignment_2_Solutions with the help of the group.
-#### Achilles Saxby (me) completed the Authorea paper publishing with extensive help from the group including editing and finalizing
+#### Achilles Saxby (me) completed the Authorea paper publishing with extensive help from the group including editing and finalizing.
