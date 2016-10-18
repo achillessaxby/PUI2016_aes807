@@ -2,8 +2,6 @@
 # aes807
 # Homwork_6_aes807
 
-# Collaborations:
-
 ## Assignment_1_Solutions:
   - Vishwajeet Shelar
   - Henry Lin
