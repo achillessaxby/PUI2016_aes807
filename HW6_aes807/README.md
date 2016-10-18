@@ -14,6 +14,10 @@
 #### Henry helped me understand and implement the coding procedures in the Assignment_1
   
 ## Assignment_2_Solutions:
+## Authorea Paper Link:
+  - The IPython Notebook is integrated with the Jupyter icon-image in the paper itself
+  - The link to the notebook can be found here
+  - https://www.authorea.com/users/106123/articles/133483/_show_article
 ### Group Project:
 ### Group/Team Members:
   - Anastasia Shegay
