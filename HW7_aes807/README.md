@@ -8,5 +8,6 @@
 #### 2 Plots were made.
 #### Plot 1:
   - Randomly Generated Data from the website mentioned in the notebook.
+
 #### Plot 2:
   - Random 3-D Plot generated.
