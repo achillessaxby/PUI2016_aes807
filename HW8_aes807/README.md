@@ -5,6 +5,7 @@
 
 ## Assignment_1_Solutions:
   - Aaron D'Souza (extensive help taken)
+
 #### Aaron helped me with the understanding of the code and the solutions on a whole part
 
 ## Assignment_2_Solutions:
