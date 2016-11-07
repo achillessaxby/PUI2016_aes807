@@ -6,7 +6,7 @@
 ## Assignment_1_Solutions:
 ### File name : HW8_Assignment1_Solutions_aes807.ipynb
 ### Collaborated from:
-  - Aaron D'Souza (extensive help taken) - helped me with the understanding of the code and the solutions on a whole part
+  - Aaron D'Souza (extensive help taken) - helped me with the understanding of the code and the solutions
   - Vishwajeet Shelar
   - Priyanshi Singh
   - Akshay Penmatcha
