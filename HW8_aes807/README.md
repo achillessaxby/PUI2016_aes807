@@ -8,7 +8,7 @@
   - Aaron helped me with the understanding of the code and the solutions on a whole part
 
 ## Assignment_2_Solutions:
-## Forked/Cloned and added README_aes807.md files to two repositories:
+#### Forked/Cloned and added README_aes807.md files to two repositories:
   - Avikal Somvanshi (as10724), as10724, as10724
   - Nicola Macchitella (nm2762), nm2762, macchi92 
 
