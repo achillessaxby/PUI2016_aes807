@@ -5,8 +5,7 @@
 
 ## Assignment_1_Solutions:
   - Aaron D'Souza (extensive help taken)
-
-#### Aaron helped me with the understanding of the code and the solutions on a whole part
+  - Aaron helped me with the understanding of the code and the solutions on a whole part
 
 ## Assignment_2_Solutions:
 ## Forked/Cloned and added README_aes807.md files to two repositories:
