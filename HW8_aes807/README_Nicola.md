@@ -1,3 +1,3 @@
 Hey Nicola.
 
-![](Nicola_Visualization.png)
+![](Nikola_Visualization.png)
