@@ -17,6 +17,10 @@
   - The link to the notebook can be found here
   - https://www.authorea.com/users/106123/articles/133483/_show_article 
 
+good, analysis in place and tests appropriately chosen and performed.
+please look at the comments on the Authorea article. Mostly the issues are issues with the linguistics organization, and wording. I recommand you read a few articles, say 1/week, from science journals like PLOSOne to understand scientific writing a bit better.
+
+
 ### Group Project:
 ### Group/Team Members:
   - Anastasia Shegay
