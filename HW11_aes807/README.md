@@ -14,8 +14,11 @@
 
 ### Assignment_1_Solutions
 ### Assignment_2_Solutions
+
 ### Data that was used during the assignment solutions
   - Data_Used
+
 ### Code that was used during the assignment solutions
   - Code_Used
+
 ### Assignment_1_Solutions
